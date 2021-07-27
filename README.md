@@ -2,4 +2,5 @@
 
 # Practice Python for learning
 
-## I will do my best
+### Lecture by YoungWook Kim
+### Some are do it with myself(data from opensources and books etc)
